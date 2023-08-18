@@ -18,7 +18,7 @@ body {
   font-family: myFont;
 }
 header {
-  background-image: url(image/background.png);
+  background-image: url(./background.png);
   /* background-clip: border-box; */
   /* background-position:bottom; */
   background-repeat: no-repeat;
@@ -372,7 +372,7 @@ section .best-price {
   display: flex;
   align-items: safe;
   margin: 0 auto;
-  background-image: url(image/background-price.png);
+  background-image: url(./background-price.png);
   background-repeat: no-repeat;
   background-clip: border-box;
   background-position: right;
